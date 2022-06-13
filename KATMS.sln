@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KATMS", "KATMS\KATMS.csproj", "{CDB848AD-C1AF-46B2-815F-ABCCF9D563BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB848AD-C1AF-46B2-815F-ABCCF9D563BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB848AD-C1AF-46B2-815F-ABCCF9D563BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB848AD-C1AF-46B2-815F-ABCCF9D563BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB848AD-C1AF-46B2-815F-ABCCF9D563BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFE67C6-6D66-4428-898B-20B6AFE1B4F0}
+	EndGlobalSection
+EndGlobal
